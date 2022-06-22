@@ -8,6 +8,10 @@ and exploration of Tkinter module
 This is a GUI based typing app in which  
 you can practice your 
 typing speed
+
+download  **Garbage-typer_APP.zip**  
+to get Executable file (exe)
+
 <br></br>
 
 ## Features
